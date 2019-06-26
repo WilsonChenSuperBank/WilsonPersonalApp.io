@@ -1,0 +1,35 @@
+.section {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover; }
+
+.section1 {
+  position: relative;
+  background-image: url("https://cdn.pixabay.com/photo/2017/01/01/20/12/killer-whale-1945421_960_720.jpg"); }
+  .section1 .myNameTitleAll {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%); }
+    .section1 .myNameTitleAll .myNameTitle {
+      font-size: 48px;
+      text-align: center;
+      border-bottom: 3px solid #222;
+      height: 48px;
+      width: 350px;
+      padding: 8px;
+      overflow: hidden; }
+    .section1 .myNameTitleAll .communityIcon {
+      text-align: center; }
+      .section1 .myNameTitleAll .communityIcon i {
+        font-size: 32px;
+        color: #222;
+        margin: 10px;
+        cursor: pointer;
+        color: #81C7D4; }
+
+.section2 {
+  background-color: #fff; }
+
+/*# sourceMappingURL=index.css.map */
