@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./my-app/build/static/css/main.47aff38a.chunk.css",
-    "main.js": "./my-app/build/static/js/main.84ecc175.chunk.js",
-    "main.js.map": "./my-app/build/static/js/main.84ecc175.chunk.js.map",
-    "runtime~main.js": "./my-app/build/static/js/runtime~main.d3521147.js",
-    "runtime~main.js.map": "./my-app/build/static/js/runtime~main.d3521147.js.map",
-    "static/js/2.6c6cf045.chunk.js": "./my-app/build/static/js/2.6c6cf045.chunk.js",
-    "static/js/2.6c6cf045.chunk.js.map": "./my-app/build/static/js/2.6c6cf045.chunk.js.map",
-    "index.html": "./my-app/build/index.html",
-    "precache-manifest.ba2a2974a3c19c9f48df79a0f0009039.js": "./my-app/build/precache-manifest.ba2a2974a3c19c9f48df79a0f0009039.js",
-    "service-worker.js": "./my-app/build/service-worker.js",
-    "static/css/main.47aff38a.chunk.css.map": "./my-app/build/static/css/main.47aff38a.chunk.css.map"
+    "main.css": "/WilsonPersonalApp.io/my-app/build/static/css/main.47aff38a.chunk.css",
+    "main.js": "/WilsonPersonalApp.io/my-app/build/static/js/main.be228dc8.chunk.js",
+    "main.js.map": "/WilsonPersonalApp.io/my-app/build/static/js/main.be228dc8.chunk.js.map",
+    "runtime~main.js": "/WilsonPersonalApp.io/my-app/build/static/js/runtime~main.56a3087f.js",
+    "runtime~main.js.map": "/WilsonPersonalApp.io/my-app/build/static/js/runtime~main.56a3087f.js.map",
+    "static/js/2.6c6cf045.chunk.js": "/WilsonPersonalApp.io/my-app/build/static/js/2.6c6cf045.chunk.js",
+    "static/js/2.6c6cf045.chunk.js.map": "/WilsonPersonalApp.io/my-app/build/static/js/2.6c6cf045.chunk.js.map",
+    "index.html": "/WilsonPersonalApp.io/my-app/build/index.html",
+    "precache-manifest.4da436cff1908c2f7fd9c99890307c74.js": "/WilsonPersonalApp.io/my-app/build/precache-manifest.4da436cff1908c2f7fd9c99890307c74.js",
+    "service-worker.js": "/WilsonPersonalApp.io/my-app/build/service-worker.js",
+    "static/css/main.47aff38a.chunk.css.map": "/WilsonPersonalApp.io/my-app/build/static/css/main.47aff38a.chunk.css.map"
   }
 }
