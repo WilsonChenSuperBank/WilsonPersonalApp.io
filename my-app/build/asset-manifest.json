@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/WilsonPersonalApp.io/my-app/build/static/css/main.47aff38a.chunk.css",
-    "main.js": "/WilsonPersonalApp.io/my-app/build/static/js/main.be228dc8.chunk.js",
-    "main.js.map": "/WilsonPersonalApp.io/my-app/build/static/js/main.be228dc8.chunk.js.map",
-    "runtime~main.js": "/WilsonPersonalApp.io/my-app/build/static/js/runtime~main.56a3087f.js",
-    "runtime~main.js.map": "/WilsonPersonalApp.io/my-app/build/static/js/runtime~main.56a3087f.js.map",
-    "static/js/2.6c6cf045.chunk.js": "/WilsonPersonalApp.io/my-app/build/static/js/2.6c6cf045.chunk.js",
-    "static/js/2.6c6cf045.chunk.js.map": "/WilsonPersonalApp.io/my-app/build/static/js/2.6c6cf045.chunk.js.map",
-    "index.html": "/WilsonPersonalApp.io/my-app/build/index.html",
-    "precache-manifest.4da436cff1908c2f7fd9c99890307c74.js": "/WilsonPersonalApp.io/my-app/build/precache-manifest.4da436cff1908c2f7fd9c99890307c74.js",
-    "service-worker.js": "/WilsonPersonalApp.io/my-app/build/service-worker.js",
-    "static/css/main.47aff38a.chunk.css.map": "/WilsonPersonalApp.io/my-app/build/static/css/main.47aff38a.chunk.css.map"
+    "main.css": "/WilsonPersonalApp.io/static/css/main.5b765f0e.chunk.css",
+    "main.js": "/WilsonPersonalApp.io/static/js/main.f1f84955.chunk.js",
+    "main.js.map": "/WilsonPersonalApp.io/static/js/main.f1f84955.chunk.js.map",
+    "runtime~main.js": "/WilsonPersonalApp.io/static/js/runtime~main.87a0ebf5.js",
+    "runtime~main.js.map": "/WilsonPersonalApp.io/static/js/runtime~main.87a0ebf5.js.map",
+    "static/js/2.6c6cf045.chunk.js": "/WilsonPersonalApp.io/static/js/2.6c6cf045.chunk.js",
+    "static/js/2.6c6cf045.chunk.js.map": "/WilsonPersonalApp.io/static/js/2.6c6cf045.chunk.js.map",
+    "index.html": "/WilsonPersonalApp.io/index.html",
+    "precache-manifest.466bd860429513f08280c9d943459e7d.js": "/WilsonPersonalApp.io/precache-manifest.466bd860429513f08280c9d943459e7d.js",
+    "service-worker.js": "/WilsonPersonalApp.io/service-worker.js",
+    "static/css/main.5b765f0e.chunk.css.map": "/WilsonPersonalApp.io/static/css/main.5b765f0e.chunk.css.map"
   }
 }
