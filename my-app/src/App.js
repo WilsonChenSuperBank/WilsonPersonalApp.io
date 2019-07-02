@@ -24,15 +24,14 @@ class App extends Component {
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }, false);
 
-    function keyFunction() {
+    function keyFunction(addOrRemove) {
       var ssName = document.getElementsByClassName("englishText");
       //englishText Name 集合
       var keyCoo = window.event.keyCode;
       //敲鍵盤的數值
       for (var i = 0; i < ssName.length; i++) {
-        console.log("111:" + ssName[i].getAttribute("englishText"));
-        if (ssName[i].getAttribute("englishText") == keyCoo) {
-          ssName[i].classList.add("bloeen");
+        if (ssName[i].getAttribute("englishtext") == keyCoo) {
+          (addOrRemove) ? ssName[i].classList.add("bloeen") : ssName[i].classList.remove("bloeen");
         }
       }
     }
@@ -42,7 +41,7 @@ class App extends Component {
       var keyCoo = window.event.keyCode;
       //敲鍵盤的數值
       for (var i = 0; i < ssName.length; i++) {
-        if (ssName[i].getAttribute("englishText") == keyCoo) {
+        if (ssName[i].getAttribute("englishtext") == keyCoo) {
           ssName[i].classList.remove("bloeen");
         }
       }
@@ -85,14 +84,16 @@ class App extends Component {
             <Route path="/" exact component={Index} />
             <Route path="/about/" component={About} />
             <Route path="/users/" component={Users} />
-            <div className="squared">
-              <p className="englishText" englishText="71">G</p>
-            </div>
-            <div className="squared">
-              <p className="englishText" englishText="66">B</p>
-            </div>
-            <div className="squared">
-              <p className="englishText" englishText="65">A</p>
+            <div className="squaredAll">
+              <div className="squared">
+                <p className="englishText" englishtext="71">G</p>
+              </div>
+              <div className="squared">
+                <p className="englishText" englishtext="66">B</p>
+              </div>
+              <div className="squared">
+                <p className="englishText" englishtext="65">A</p>
+              </div>
             </div>
           </div>
           <div className="top" id="scrollToTop">Scroll To Top</div>
