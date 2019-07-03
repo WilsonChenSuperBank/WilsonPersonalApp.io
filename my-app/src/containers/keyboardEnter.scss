@@ -1,0 +1,29 @@
+.squaredAll {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+    .squared {
+        width: 100px;
+        height: 100px;
+        margin: 10px;
+        display: inline-block;
+
+        p {
+            border: 2px solid #fff;
+            height: 32px;
+            padding: 32px;
+            font-size: 32px;
+            color: #fff;
+            text-align: center;
+            transform: all .5s;
+        }
+
+        p.bloeen {
+            border: 2px solid #ffc600;
+            color: #ffc600;
+            transform: scale(1.1);
+            box-shadow: 0 0 1rem #ffc600;
+        }
+    }
+}
