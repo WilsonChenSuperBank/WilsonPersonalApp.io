@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './keyboardEnter.scss';
+import './KeyboardEnter.scss';
 
 class keyboardEnter extends Component {
    constructor(props) {

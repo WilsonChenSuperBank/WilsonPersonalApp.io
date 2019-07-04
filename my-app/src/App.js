@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import './App.scss';
 import Index from './Home.js';
-import KeyboardEnter from './containers/keyboardEnter.js';
+import KeyboardEnter from './containers/KeyboardEnter.js';
+import Clock from './containers/Clock.js';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 class App extends Component {
@@ -53,6 +54,7 @@ class App extends Component {
           </div>
           <div className="section section3">
             <KeyboardEnter />
+            <Clock />
           </div>
           <div className="top" id="scrollToTop">Scroll To Top</div>
         </div>
